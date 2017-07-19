@@ -35,7 +35,7 @@ How to use:
       <pre><code class='language-cs'>bool didAppCrash = await Crashes.HasCrashedInLastSessionAsync();</code></pre>
   </li>
 </ol>
-<h3>Mobile Mobile Center</h3>
+<h3>Mobile Center Screenshot</h3>
 <b>Crashes</b><br>
 <img src="https://raw.githubusercontent.com/makubex88/AppMobileDevOps/master/Crashes.png" style="width:100px;height:100px;"/><br>
 <b>Analytics-Overview</b><br>
